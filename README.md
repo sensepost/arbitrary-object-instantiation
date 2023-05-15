@@ -1,6 +1,6 @@
 # arbitrary-object-instantiation
 
-A PHP, Arbitrary Object Instantiation Lab
+A PHP, Arbitrary Object Instantiation Lab by [@leonjza](https://twitter.com/leonjza).
 
 A challenge / playground for the bug described [here](https://swarm.ptsecurity.com/exploiting-arbitrary-object-instantiations/).
 
